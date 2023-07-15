@@ -1,3 +1,5 @@
+--using https://github.com/lnx00/Lmaobox-Library
+
 -- Load lnxLib library
 ---@type boolean, lnxLib
 local libLoaded, lnxLib = pcall(require, "lnxLib")
